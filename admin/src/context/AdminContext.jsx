@@ -18,7 +18,7 @@ const AdminContextProvider = (props) => {
 
 
 
-    const backendUrl = 'https://dr-home.onrender.com 
+    const backendUrl = 'https://dr-home.onrender.com/' 
 
     const getAllDoctors = async () => {
         try {
