@@ -9,8 +9,8 @@ import Sidebar from './components/Sidebar.jsx';
 import { Routes, Route } from 'react-router-dom';
 import Dashboard from './pages/admin/Dashboard.jsx';
 import AllAppointments from './pages/Admin/AllAppointments.jsx'
-import AddDoctor from './pages/admin/AddDoctor.jsx';
-import DoctorsList from './pages/admin/DoctorsList.jsx';
+import AddDoctor from './pages/Admin/AddDoctor.jsx';
+import DoctorsList from './pages/Admin/DoctorsList.jsx';
 import { DoctorContext } from './context/DoctorContext.jsx';
 import DoctorDashboard from './pages/Doctor/doctorDashboard.jsx';
 import DoctorProfile from './pages/Doctor/doctorProfile.jsx';
