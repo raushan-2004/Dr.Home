@@ -60,47 +60,6 @@ bcryptjs – For password hashing and secure authentication
 - **admin/**: Admin dashboard and Doctor dashboard
 - **backend/**:  REST API, database, authentication, payments
 
-
-## Pages
-
-### 1. Patient Home
-
-![Home](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-### 2. Doctors
-
-![Doctors](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-### 3. Book Appointments
-
-![Book](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-### 4. My Appointments
-
-![Appointments](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-### 5. My Profile
-
-![Profile](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-### 6. Admin Dashboard
-
-![admin Dashboard](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-### 7. Doctor Dashboard
-
-![admin Dashboard](https://drive.google.com/drive/folders/1Uxx44dollmoQFnN3Jq9FlIPad-Czf1F5)
-
-
-
-
-
 ## Getting Started
 
 ### Prerequisites
